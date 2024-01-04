@@ -25,5 +25,13 @@
 
   button {
     margin-top: auto;
+
+    .link {
+      color: #fff;
+
+      &:hover {
+        color: #000;
+      }
+    }
   }
 }
